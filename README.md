@@ -1,2 +1,2 @@
 # HANGMAN
-The Hangman game built using ReactJS. [Play it here!](https://ninja-archer.github.io/HangMan/)
+The Hangman game built using ReactJS. [Play it here!](https://yash-aggrawal.github.io/HangMan/)
